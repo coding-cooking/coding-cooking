@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-![Felix Zhang's GitHub Top Langs](https://github-readme-stats.vercel.app/api?username=coding-cooking&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuangbeibei&layout=compact&theme=material-palenight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kuangbeibei&theme=prussian)](https://git.io/streak-stats)
