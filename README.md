@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)  
 ![](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
 ![](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
