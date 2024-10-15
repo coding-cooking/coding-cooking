@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coding-cooking&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cooking&theme=default&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cooking&theme=default&show_icons=true&hide_border=false&layout=compact)   
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
